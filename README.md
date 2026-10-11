@@ -1,6 +1,6 @@
 # 👋 Bonjour, moi c’est Yosra 
 
-🎓 Étudiante en BUT 2 MMI – parcours Développement web & dispositifs interactifs  
+🎓 Étudiante en 3ème année de BUT MMI – parcours Développement web & dispositifs interactifs  
 📍 IUT de Cergy-Pontoise 
 
 ## 🚀 À propos de moi
@@ -29,8 +29,7 @@ Je m’intéresse particulièrement au développement web (front et back) et aux
 
 
 ## 🎯 Ce que je recherche
-Je suis actuellement à la recherche d’un **stage rémunéré** d’une durée minimale de **10 semaines**,  
-à partir du **20 avril 2026**, dans le domaine du développement web.
+Je suis actuellement à la recherche d’une **alternance** avec un rythme de **2 semaines en entreprise et 2 semaines à l'école**.
 
 
 ## 📫 Me contacter
