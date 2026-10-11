@@ -35,7 +35,7 @@ Je m’intéresse particulièrement au développement web (front et back) et aux
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=black)
 ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
 
-🔗 Découvrez mes projets : https://yosramesbahi.github.io/portfolio/
+🔗 Découvrez mes projets : https://mesbahi.alwaysdata.net/crud-portfolio/index.php
 
 
 ## 🎯 Ce que je recherche
@@ -44,5 +44,5 @@ Je suis actuellement à la recherche d’une **alternance** avec un rythme de **
 
 ## 📫 Me contacter
 - LinkedIn : https://www.linkedin.com/in/yosra-mesbahi
-- Portfolio : https://yosramesbahi.github.io/portfolio/
+- Portfolio : https://mesbahi.alwaysdata.net/crud-portfolio/index.php
 - Email : yosra.mesbahipro@gmail.com
